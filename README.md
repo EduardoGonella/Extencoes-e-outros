@@ -11,6 +11,8 @@ Extenções:
 
 Validador html: https://validator.w3.org/nu/#textarea Color hunt: https://colorhunt.co/ Fontes: https://fonts.google.com/ códigos prontos: https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
+Extenção do google: Page Ruler Chrome extencion
+
 # PHP POO
 
 Extenções que tem no PC da escola:
