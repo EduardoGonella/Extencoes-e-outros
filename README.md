@@ -8,6 +8,7 @@ Extenções:
 - Live Share
 - IntelliSense for CSS class names in HTML ~ Zignd
 - vscode-icons ~ VSCode Icons Team
+
 Validador html: https://validator.w3.org/nu/#textarea Color hunt: https://colorhunt.co/ Fontes: https://fonts.google.com/ códigos prontos: https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
 # PHP POO
