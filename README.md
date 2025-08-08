@@ -15,6 +15,7 @@ Extenção do google:
 
 - Page Ruler Chrome Extention
 - ColorZilla Chrome Extention
+- Video DownloadHelper Chrome Extention ~ baixa qualquer musica/vídeo independente do lugar
 
 # PHP POO
 
